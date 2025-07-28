@@ -18,4 +18,14 @@ We plotted the distribution of key features — `danceability`, `energy`, `valen
 
 These trends help in selecting and prioritizing features during modeling. 
 
+Data Cleaning & Preprocessing
 
+- Removing nulls and duplicate records to ensure clean data.
+- Dropping non-numeric columns (song_title, artist) not useful for model training.
+- Separating features (X) and target (y).
+- Applying StandardScaler to normalize all numeric features, ensuring they have the same scale for better model performance and stability.
+
+
+
+
+ 

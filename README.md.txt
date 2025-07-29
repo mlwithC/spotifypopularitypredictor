@@ -25,7 +25,8 @@ Data Cleaning & Preprocessing
 - Separating features (X) and target (y).
 - Applying StandardScaler to normalize all numeric features, ensuring they have the same scale for better model performance and stability.
 
+Split and train ,Logistic Regression model
 
-
-
- 
+-We trained a Logistic Regression model to classify songs as hits or flops based on their audio features.
+-The model achieved an impressive accuracy of 99.5%, indicating strong predictive performance on the test set.
+-This serves as a baseline to compare with more complex models like Random Forest and SVM. 

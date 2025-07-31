@@ -34,6 +34,6 @@ Split and train ,Logistic Regression model
  Decision Tree Classifier,. Random Forest Classifier
 
 Achieved 100% accuracy on the test set.
-Also achieved 100% accuracy.
+Also achieved 100% accuracy. 
 
 will check later the model is overfitting or anything else 

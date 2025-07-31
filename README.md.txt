@@ -30,3 +30,10 @@ Split and train ,Logistic Regression model
 -We trained a Logistic Regression model to classify songs as hits or flops based on their audio features.
 -The model achieved an impressive accuracy of 99.5%, indicating strong predictive performance on the test set.
 -This serves as a baseline to compare with more complex models like Random Forest and SVM. 
+
+ Decision Tree Classifier,. Random Forest Classifier
+
+Achieved 100% accuracy on the test set.
+Also achieved 100% accuracy.
+
+will check later the model is overfitting or anything else 

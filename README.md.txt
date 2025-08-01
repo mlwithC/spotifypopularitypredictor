@@ -27,7 +27,7 @@ Data Cleaning & Preprocessing
 
 Split and train ,Logistic Regression model
 
--We trained a Logistic Regression model to classify songs as hits or flops based on their audio features.
+We trained a Logistic Regression model to classify songs as hits or flops based on their audio features.
 -The model achieved an impressive accuracy of 99.5%, indicating strong predictive performance on the test set.
 -This serves as a baseline to compare with more complex models like Random Forest and SVM. 
 
@@ -37,3 +37,11 @@ Achieved 100% accuracy on the test set.
 Also achieved 100% accuracy. 
 
 will check later the model is overfitting or anything else 
+
+K-Nearest Neighbors (KNN)
+-Achieved an accuracy of 94.55%.
+-Performs well and is easy to implement, but slightly less accurate due to sensitivity to feature scaling and neighbor selection.
+
+Support Vector Machine (SVM)
+-Achieved an accuracy of 98.27%.
+-Offers strong performance with clear class boundaries, especially in high-dimensional space.

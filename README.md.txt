@@ -45,3 +45,5 @@ K-Nearest Neighbors (KNN)
 Support Vector Machine (SVM)
 -Achieved an accuracy of 98.27%.
 -Offers strong performance with clear class boundaries, especially in high-dimensional space.
+
+added the comparison model barplot among them we have choosen the random forest model to save.

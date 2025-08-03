@@ -47,3 +47,6 @@ Support Vector Machine (SVM)
 -Offers strong performance with clear class boundaries, especially in high-dimensional space.
 
 added the comparison model barplot among them we have choosen the random forest model to save.
+
+saved the model and tried to run but the model is predicting wrong well thts expected 
+it i think the model is unbalanced so wrking on it 

@@ -50,3 +50,10 @@ added the comparison model barplot among them we have choosen the random forest 
 
 saved the model and tried to run but the model is predicting wrong well thts expected 
 it i think the model is unbalanced so wrking on it 
+
+ Although this project originally used regression to predict exact popularity scores,
+# the dataset was found to be heavily imbalanced — with almost all songs having low popularity (0–30).
+# As a result, the model failed to generalize and always predicted low values (underfitting).
+# To resolve this, we switch to a classification approach: Low, Medium, High popularity categories.
+
+will make a new file and do the classification model there 

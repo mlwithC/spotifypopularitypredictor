@@ -57,3 +57,5 @@ it i think the model is unbalanced so wrking on it
 # To resolve this, we switch to a classification approach: Low, Medium, High popularity categories.
 
 will make a new file and do the classification model there 
+
+well tried to figure it out but didn't work out so will do again tomorrow

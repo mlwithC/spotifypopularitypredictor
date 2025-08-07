@@ -56,6 +56,20 @@ it i think the model is unbalanced so wrking on it
 # As a result, the model failed to generalize and always predicted low values (underfitting).
 # To resolve this, we switch to a classification approach: Low, Medium, High popularity categories.
 
-will make a new file and do the classification model there 
+will make a new file and do the classification model there
 
+before moving here is the reason
 well tried to figure it out but didn't work out so will do again tomorrow
+so wht we did the cause is we initially tried regression to predict a song’s popularity score, but the dataset didn’t have a proper numerical popularity column—only a binary target (popular or not). 
+Since the outcome is just 0 or 1.
+it makes more sense to treat this as a classification problem.
+This way, the model can better learn patterns that separate popular songs from unpopular ones.
+
+so we made a classifer for the spotify popularity predictor and we got 77% which is kinda great for now
+and we tested with the manual and real song from data test wht we got is:
+Our model is 77% accurate, but it's not always right. In this case, it missed a popular song. That’s because some things like fame or promotions — which also affect popularity — weren’t in our dataset.
+
+
+
+
+

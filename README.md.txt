@@ -69,7 +69,7 @@ so we made a classifer for the spotify popularity predictor and we got 77% which
 and we tested with the manual and real song from data test wht we got is:
 Our model is 77% accurate, but it's not always right. In this case, it missed a popular song. That’s because some things like fame or promotions — which also affect popularity — weren’t in our dataset.
 
-
+ 
 
 
 

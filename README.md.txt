@@ -69,6 +69,22 @@ so we made a classifer for the spotify popularity predictor and we got 77% which
 and we tested with the manual and real song from data test wht we got is:
 Our model is 77% accurate, but it's not always right. In this case, it missed a popular song. That’s because some things like fame or promotions — which also affect popularity — weren’t in our dataset.
 
+
+Today, we installed and set up XGBoost in our environment, cleaned the dataset by dropping unnecessary columns (artist, Unnamed: 0, song_title)
+performed hyperparameter tuning using GridSearchCV to avoid data leakage. W
+e identified the best parameters (colsample_bytree: 0.8, learning_rate: 0.1, max_depth: 5, n_estimators: 100, subsample: 0.8)
+achieving a training accuracy of 96.16% and a testing accuracy of 77.23%. 
+This completes the model optimization phase successfully.
+
+
+
+
+
+
+
+
+
+
  
 
 

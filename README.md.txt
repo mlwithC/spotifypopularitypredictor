@@ -74,7 +74,7 @@ Today, we installed and set up XGBoost in our environment, cleaned the dataset b
 performed hyperparameter tuning using GridSearchCV to avoid data leakage. W
 e identified the best parameters (colsample_bytree: 0.8, learning_rate: 0.1, max_depth: 5, n_estimators: 100, subsample: 0.8)
 achieving a training accuracy of 96.16% and a testing accuracy of 77.23%. 
-This completes the model optimization phase successfully.
+This completes the model optimization phase successfully. 
 
 
 
